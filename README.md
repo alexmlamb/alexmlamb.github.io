@@ -1,5 +1,3 @@
-# alexmlamb.github.io
-
 Alex Lamb.  
 
 PhD Student at Universite de Montreal (MILA).  
